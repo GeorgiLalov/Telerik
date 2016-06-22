@@ -1,0 +1,1 @@
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharp2\TestPreparation\TestPreparation\bin\Debug\TestPreparation.exe.config

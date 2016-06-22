@@ -1,0 +1,1 @@
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharp2\06. Strings and Text Processing\03. Correct brackets\bin\Debug\_03.Correct_brackets.exe.config

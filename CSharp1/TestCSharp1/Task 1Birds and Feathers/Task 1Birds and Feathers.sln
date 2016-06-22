@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task 1Birds and Feathers", "Task 1Birds and Feathers\Task 1Birds and Feathers.csproj", "{CC3D22E3-D658-4726-9AED-1FE82B41EE9B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. Busses", "2. Busses\2. Busses.csproj", "{8E019FF9-F969-40C7-916E-54E0D5EA9E4B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3. Number of Pages", "3. Number of Pages\3. Number of Pages.csproj", "{D3727E24-938D-4137-BD37-025AB0AE1F7D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4. Batman", "4. Batman\4. Batman.csproj", "{92DCA53E-897B-43C0-A9C3-0AD69C5286C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5. Bobby Avokadoto", "5. Bobby Avokadoto\5. Bobby Avokadoto.csproj", "{8DC2CDFA-61C8-4014-A5A1-FC15748B0762}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.Batman 2.0", "4.Batman 2.0\4.Batman 2.0.csproj", "{B2C0A6F7-0244-4C20-B31D-873A95DBBF31}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC3D22E3-D658-4726-9AED-1FE82B41EE9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC3D22E3-D658-4726-9AED-1FE82B41EE9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC3D22E3-D658-4726-9AED-1FE82B41EE9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC3D22E3-D658-4726-9AED-1FE82B41EE9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E019FF9-F969-40C7-916E-54E0D5EA9E4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E019FF9-F969-40C7-916E-54E0D5EA9E4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E019FF9-F969-40C7-916E-54E0D5EA9E4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E019FF9-F969-40C7-916E-54E0D5EA9E4B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3727E24-938D-4137-BD37-025AB0AE1F7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3727E24-938D-4137-BD37-025AB0AE1F7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3727E24-938D-4137-BD37-025AB0AE1F7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3727E24-938D-4137-BD37-025AB0AE1F7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92DCA53E-897B-43C0-A9C3-0AD69C5286C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92DCA53E-897B-43C0-A9C3-0AD69C5286C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92DCA53E-897B-43C0-A9C3-0AD69C5286C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92DCA53E-897B-43C0-A9C3-0AD69C5286C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8DC2CDFA-61C8-4014-A5A1-FC15748B0762}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DC2CDFA-61C8-4014-A5A1-FC15748B0762}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DC2CDFA-61C8-4014-A5A1-FC15748B0762}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DC2CDFA-61C8-4014-A5A1-FC15748B0762}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2C0A6F7-0244-4C20-B31D-873A95DBBF31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2C0A6F7-0244-4C20-B31D-873A95DBBF31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2C0A6F7-0244-4C20-B31D-873A95DBBF31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2C0A6F7-0244-4C20-B31D-873A95DBBF31}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,5 @@
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\Homeworks 3\DivideBy75\DivideBy75\bin\Debug\DivideBy75.exe.config
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\Homeworks 3\DivideBy75\DivideBy75\bin\Debug\DivideBy75.exe
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\Homeworks 3\DivideBy75\DivideBy75\bin\Debug\DivideBy75.pdb
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\Homeworks 3\DivideBy75\DivideBy75\obj\Debug\DivideBy75.exe
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\Homeworks 3\DivideBy75\DivideBy75\obj\Debug\DivideBy75.pdb

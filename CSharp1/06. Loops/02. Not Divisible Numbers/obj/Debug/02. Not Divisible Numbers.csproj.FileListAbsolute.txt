@@ -1,0 +1,5 @@
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\Homeworks 4\06. Loops\02. Not Divisible Numbers\bin\Debug\_02.Not_Divisible_Numbers.exe.config
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\Homeworks 4\06. Loops\02. Not Divisible Numbers\bin\Debug\_02.Not_Divisible_Numbers.exe
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\Homeworks 4\06. Loops\02. Not Divisible Numbers\bin\Debug\_02.Not_Divisible_Numbers.pdb
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\Homeworks 4\06. Loops\02. Not Divisible Numbers\obj\Debug\_02.Not_Divisible_Numbers.exe
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\Homeworks 4\06. Loops\02. Not Divisible Numbers\obj\Debug\_02.Not_Divisible_Numbers.pdb

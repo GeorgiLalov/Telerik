@@ -1,0 +1,6 @@
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\TestCSharp1\1. MutantSquirrels\2. Speeds\bin\Debug\_2.Speeds.exe.config
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\TestCSharp1\1. MutantSquirrels\2. Speeds\bin\Debug\_2.Speeds.exe
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\TestCSharp1\1. MutantSquirrels\2. Speeds\bin\Debug\_2.Speeds.pdb
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\TestCSharp1\1. MutantSquirrels\2. Speeds\obj\Debug\2. Speeds.csprojResolveAssemblyReference.cache
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\TestCSharp1\1. MutantSquirrels\2. Speeds\obj\Debug\_2.Speeds.exe
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\TestCSharp1\1. MutantSquirrels\2. Speeds\obj\Debug\_2.Speeds.pdb

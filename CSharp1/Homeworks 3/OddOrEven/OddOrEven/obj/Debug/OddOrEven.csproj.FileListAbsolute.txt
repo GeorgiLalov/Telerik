@@ -1,0 +1,6 @@
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\Homeworks 3\OddOrEven\OddOrEven\bin\Debug\OddOrEven.exe.config
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\Homeworks 3\OddOrEven\OddOrEven\bin\Debug\OddOrEven.exe
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\Homeworks 3\OddOrEven\OddOrEven\bin\Debug\OddOrEven.pdb
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\Homeworks 3\OddOrEven\OddOrEven\obj\Debug\OddOrEven.csprojResolveAssemblyReference.cache
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\Homeworks 3\OddOrEven\OddOrEven\obj\Debug\OddOrEven.exe
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\Homeworks 3\OddOrEven\OddOrEven\obj\Debug\OddOrEven.pdb

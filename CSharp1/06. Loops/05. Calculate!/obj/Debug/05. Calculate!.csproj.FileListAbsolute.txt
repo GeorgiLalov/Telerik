@@ -1,0 +1,6 @@
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\Homeworks 4\06. Loops\05. Calculate!\bin\Debug\_05.Calculate_.exe.config
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\Homeworks 4\06. Loops\05. Calculate!\bin\Debug\_05.Calculate_.exe
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\Homeworks 4\06. Loops\05. Calculate!\bin\Debug\_05.Calculate_.pdb
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\Homeworks 4\06. Loops\05. Calculate!\obj\Debug\05. Calculate!.csprojResolveAssemblyReference.cache
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\Homeworks 4\06. Loops\05. Calculate!\obj\Debug\_05.Calculate_.exe
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\Homeworks 4\06. Loops\05. Calculate!\obj\Debug\_05.Calculate_.pdb

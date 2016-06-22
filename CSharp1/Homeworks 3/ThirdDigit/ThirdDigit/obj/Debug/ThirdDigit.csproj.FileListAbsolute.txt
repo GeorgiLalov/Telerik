@@ -1,0 +1,6 @@
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\Homeworks 3\ThirdDigit\ThirdDigit\bin\Debug\ThirdDigit.exe.config
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\Homeworks 3\ThirdDigit\ThirdDigit\bin\Debug\ThirdDigit.exe
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\Homeworks 3\ThirdDigit\ThirdDigit\bin\Debug\ThirdDigit.pdb
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\Homeworks 3\ThirdDigit\ThirdDigit\obj\Debug\ThirdDigit.exe
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\Homeworks 3\ThirdDigit\ThirdDigit\obj\Debug\ThirdDigit.pdb
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\Homeworks 3\ThirdDigit\ThirdDigit\obj\Debug\ThirdDigit.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharp2\03. Methods\01. Say Hello\bin\Debug\_01.Say_Hello.exe.config
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharp2\03. Methods\01. Say Hello\bin\Debug\_01.Say_Hello.exe
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharp2\03. Methods\01. Say Hello\bin\Debug\_01.Say_Hello.pdb
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharp2\03. Methods\01. Say Hello\obj\Debug\01. Say Hello.csprojResolveAssemblyReference.cache
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharp2\03. Methods\01. Say Hello\obj\Debug\_01.Say_Hello.exe
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharp2\03. Methods\01. Say Hello\obj\Debug\_01.Say_Hello.pdb

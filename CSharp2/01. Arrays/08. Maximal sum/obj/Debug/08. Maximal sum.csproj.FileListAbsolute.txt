@@ -1,0 +1,5 @@
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharp2\01. Arrays\08. Maximal sum\bin\Debug\_08.Maximal_sum.exe.config
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharp2\01. Arrays\08. Maximal sum\bin\Debug\_08.Maximal_sum.exe
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharp2\01. Arrays\08. Maximal sum\bin\Debug\_08.Maximal_sum.pdb
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharp2\01. Arrays\08. Maximal sum\obj\Debug\_08.Maximal_sum.exe
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharp2\01. Arrays\08. Maximal sum\obj\Debug\_08.Maximal_sum.pdb

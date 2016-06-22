@@ -1,0 +1,5 @@
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharp2\07. Exception Handling\01. Square root\bin\Debug\_01.Square_root.exe.config
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharp2\07. Exception Handling\01. Square root\bin\Debug\_01.Square_root.exe
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharp2\07. Exception Handling\01. Square root\bin\Debug\_01.Square_root.pdb
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharp2\07. Exception Handling\01. Square root\obj\Debug\_01.Square_root.exe
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharp2\07. Exception Handling\01. Square root\obj\Debug\_01.Square_root.pdb

@@ -1,0 +1,1 @@
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharp2\03. Methods\04. Appearance count\bin\Debug\_04.Appearance_count.exe.config

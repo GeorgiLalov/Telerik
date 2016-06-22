@@ -1,0 +1,6 @@
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharp2\TestCAndvanced\3. Harry-Potter-4D\bin\Debug\_3.Harry_Potter_4D.exe.config
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharp2\TestCAndvanced\3. Harry-Potter-4D\bin\Debug\_3.Harry_Potter_4D.exe
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharp2\TestCAndvanced\3. Harry-Potter-4D\bin\Debug\_3.Harry_Potter_4D.pdb
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharp2\TestCAndvanced\3. Harry-Potter-4D\obj\Debug\3. Harry-Potter-4D.csprojResolveAssemblyReference.cache
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharp2\TestCAndvanced\3. Harry-Potter-4D\obj\Debug\_3.Harry_Potter_4D.exe
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharp2\TestCAndvanced\3. Harry-Potter-4D\obj\Debug\_3.Harry_Potter_4D.pdb

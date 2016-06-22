@@ -1,0 +1,6 @@
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharp2\TestPreparation\3. Lover of 3\bin\Debug\_3.Lover_of_3.exe.config
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharp2\TestPreparation\3. Lover of 3\bin\Debug\_3.Lover_of_3.exe
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharp2\TestPreparation\3. Lover of 3\bin\Debug\_3.Lover_of_3.pdb
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharp2\TestPreparation\3. Lover of 3\obj\Debug\3. Lover of 3.csprojResolveAssemblyReference.cache
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharp2\TestPreparation\3. Lover of 3\obj\Debug\_3.Lover_of_3.exe
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharp2\TestPreparation\3. Lover of 3\obj\Debug\_3.Lover_of_3.pdb

@@ -1,0 +1,6 @@
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharp2\04. Numeral Systems\MarkBench\bin\Debug\MarkBench.exe.config
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharp2\04. Numeral Systems\MarkBench\bin\Debug\MarkBench.exe
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharp2\04. Numeral Systems\MarkBench\bin\Debug\MarkBench.pdb
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharp2\04. Numeral Systems\MarkBench\obj\Debug\MarkBench.csprojResolveAssemblyReference.cache
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharp2\04. Numeral Systems\MarkBench\obj\Debug\MarkBench.exe
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharp2\04. Numeral Systems\MarkBench\obj\Debug\MarkBench.pdb

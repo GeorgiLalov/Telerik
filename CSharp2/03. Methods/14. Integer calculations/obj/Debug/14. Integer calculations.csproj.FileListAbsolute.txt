@@ -1,0 +1,6 @@
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharp2\03. Methods\14. Integer calculations\bin\Debug\_14.Integer_calculations.exe.config
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharp2\03. Methods\14. Integer calculations\bin\Debug\_14.Integer_calculations.exe
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharp2\03. Methods\14. Integer calculations\bin\Debug\_14.Integer_calculations.pdb
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharp2\03. Methods\14. Integer calculations\obj\Debug\14. Integer calculations.csprojResolveAssemblyReference.cache
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharp2\03. Methods\14. Integer calculations\obj\Debug\_14.Integer_calculations.exe
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharp2\03. Methods\14. Integer calculations\obj\Debug\_14.Integer_calculations.pdb

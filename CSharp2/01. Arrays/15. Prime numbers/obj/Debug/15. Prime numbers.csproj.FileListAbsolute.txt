@@ -1,0 +1,6 @@
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharp2\01. Arrays\15. Prime numbers\bin\Debug\_15.Prime_numbers.exe.config
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharp2\01. Arrays\15. Prime numbers\bin\Debug\_15.Prime_numbers.exe
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharp2\01. Arrays\15. Prime numbers\bin\Debug\_15.Prime_numbers.pdb
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharp2\01. Arrays\15. Prime numbers\obj\Debug\15. Prime numbers.csprojResolveAssemblyReference.cache
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharp2\01. Arrays\15. Prime numbers\obj\Debug\_15.Prime_numbers.exe
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharp2\01. Arrays\15. Prime numbers\obj\Debug\_15.Prime_numbers.pdb

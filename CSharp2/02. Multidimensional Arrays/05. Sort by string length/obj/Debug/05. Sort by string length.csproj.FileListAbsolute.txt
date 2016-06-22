@@ -1,0 +1,6 @@
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharp2\02. Multidimensional Arrays\05. Sort by string length\bin\Debug\_05.Sort_by_string_length.exe.config
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharp2\02. Multidimensional Arrays\05. Sort by string length\bin\Debug\_05.Sort_by_string_length.exe
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharp2\02. Multidimensional Arrays\05. Sort by string length\bin\Debug\_05.Sort_by_string_length.pdb
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharp2\02. Multidimensional Arrays\05. Sort by string length\obj\Debug\05. Sort by string length.csprojResolveAssemblyReference.cache
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharp2\02. Multidimensional Arrays\05. Sort by string length\obj\Debug\_05.Sort_by_string_length.exe
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharp2\02. Multidimensional Arrays\05. Sort by string length\obj\Debug\_05.Sort_by_string_length.pdb

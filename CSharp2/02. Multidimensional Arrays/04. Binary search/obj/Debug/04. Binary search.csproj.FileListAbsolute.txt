@@ -1,0 +1,6 @@
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharp2\02. Multidimensional Arrays\04. Binary search\bin\Debug\_04.Binary_search.exe.config
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharp2\02. Multidimensional Arrays\04. Binary search\bin\Debug\_04.Binary_search.exe
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharp2\02. Multidimensional Arrays\04. Binary search\bin\Debug\_04.Binary_search.pdb
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharp2\02. Multidimensional Arrays\04. Binary search\obj\Debug\04. Binary search.csprojResolveAssemblyReference.cache
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharp2\02. Multidimensional Arrays\04. Binary search\obj\Debug\_04.Binary_search.exe
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharp2\02. Multidimensional Arrays\04. Binary search\obj\Debug\_04.Binary_search.pdb

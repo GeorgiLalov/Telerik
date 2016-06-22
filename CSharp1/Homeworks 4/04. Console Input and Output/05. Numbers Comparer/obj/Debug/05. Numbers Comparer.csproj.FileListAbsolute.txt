@@ -1,0 +1,6 @@
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\Homeworks 4\04. Console Input and Output\05. Numbers Comparer\bin\Debug\_05.Numbers_Comparer.exe.config
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\Homeworks 4\04. Console Input and Output\05. Numbers Comparer\bin\Debug\_05.Numbers_Comparer.exe
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\Homeworks 4\04. Console Input and Output\05. Numbers Comparer\bin\Debug\_05.Numbers_Comparer.pdb
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\Homeworks 4\04. Console Input and Output\05. Numbers Comparer\obj\Debug\05. Numbers Comparer.csprojResolveAssemblyReference.cache
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\Homeworks 4\04. Console Input and Output\05. Numbers Comparer\obj\Debug\_05.Numbers_Comparer.exe
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\Homeworks 4\04. Console Input and Output\05. Numbers Comparer\obj\Debug\_05.Numbers_Comparer.pdb

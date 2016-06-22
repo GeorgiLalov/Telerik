@@ -1,0 +1,6 @@
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\Homeworks 2\QuotesInString\QuotesInString\bin\Debug\QuotesInString.exe.config
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\Homeworks 2\QuotesInString\QuotesInString\bin\Debug\QuotesInString.exe
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\Homeworks 2\QuotesInString\QuotesInString\bin\Debug\QuotesInString.pdb
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\Homeworks 2\QuotesInString\QuotesInString\obj\Debug\QuotesInString.csprojResolveAssemblyReference.cache
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\Homeworks 2\QuotesInString\QuotesInString\obj\Debug\QuotesInString.exe
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\Homeworks 2\QuotesInString\QuotesInString\obj\Debug\QuotesInString.pdb

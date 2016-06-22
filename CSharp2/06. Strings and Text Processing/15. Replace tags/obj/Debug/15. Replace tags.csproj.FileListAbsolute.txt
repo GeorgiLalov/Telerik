@@ -1,0 +1,1 @@
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharp2\06. Strings and Text Processing\15. Replace tags\bin\Debug\_15.Replace_tags.exe.config

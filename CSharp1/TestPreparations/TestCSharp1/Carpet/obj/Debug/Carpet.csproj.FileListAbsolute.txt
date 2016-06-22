@@ -1,0 +1,5 @@
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\TestPreparations\TestCSharp1\Carpet\bin\Debug\Carpet.exe.config
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\TestPreparations\TestCSharp1\Carpet\bin\Debug\Carpet.exe
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\TestPreparations\TestCSharp1\Carpet\bin\Debug\Carpet.pdb
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\TestPreparations\TestCSharp1\Carpet\obj\Debug\Carpet.exe
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\TestPreparations\TestCSharp1\Carpet\obj\Debug\Carpet.pdb

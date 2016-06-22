@@ -1,0 +1,6 @@
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharp2\01. Arrays\18. Remove elements from array\bin\Debug\_18.Remove_elements_from_array.exe.config
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharp2\01. Arrays\18. Remove elements from array\bin\Debug\_18.Remove_elements_from_array.exe
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharp2\01. Arrays\18. Remove elements from array\bin\Debug\_18.Remove_elements_from_array.pdb
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharp2\01. Arrays\18. Remove elements from array\obj\Debug\18. Remove elements from array.csprojResolveAssemblyReference.cache
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharp2\01. Arrays\18. Remove elements from array\obj\Debug\_18.Remove_elements_from_array.exe
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharp2\01. Arrays\18. Remove elements from array\obj\Debug\_18.Remove_elements_from_array.pdb

@@ -1,0 +1,6 @@
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharp2\03. Methods\07. Reverse number\bin\Debug\_07.Reverse_number.exe.config
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharp2\03. Methods\07. Reverse number\bin\Debug\_07.Reverse_number.exe
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharp2\03. Methods\07. Reverse number\bin\Debug\_07.Reverse_number.pdb
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharp2\03. Methods\07. Reverse number\obj\Debug\07. Reverse number.csprojResolveAssemblyReference.cache
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharp2\03. Methods\07. Reverse number\obj\Debug\_07.Reverse_number.exe
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharp2\03. Methods\07. Reverse number\obj\Debug\_07.Reverse_number.pdb

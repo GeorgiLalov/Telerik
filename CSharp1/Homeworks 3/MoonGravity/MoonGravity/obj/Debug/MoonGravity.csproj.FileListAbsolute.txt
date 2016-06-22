@@ -1,0 +1,5 @@
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\Homeworks 3\MoonGravity\MoonGravity\bin\Debug\MoonGravity.exe.config
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\Homeworks 3\MoonGravity\MoonGravity\bin\Debug\MoonGravity.exe
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\Homeworks 3\MoonGravity\MoonGravity\bin\Debug\MoonGravity.pdb
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\Homeworks 3\MoonGravity\MoonGravity\obj\Debug\MoonGravity.exe
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\Homeworks 3\MoonGravity\MoonGravity\obj\Debug\MoonGravity.pdb

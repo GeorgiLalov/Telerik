@@ -1,0 +1,6 @@
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharp2\04. Numeral Systems\04. Hexadecimal to decimal\bin\Debug\_04.Hexadecimal_to_decimal.exe.config
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharp2\04. Numeral Systems\04. Hexadecimal to decimal\bin\Debug\_04.Hexadecimal_to_decimal.exe
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharp2\04. Numeral Systems\04. Hexadecimal to decimal\bin\Debug\_04.Hexadecimal_to_decimal.pdb
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharp2\04. Numeral Systems\04. Hexadecimal to decimal\obj\Debug\_04.Hexadecimal_to_decimal.exe
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharp2\04. Numeral Systems\04. Hexadecimal to decimal\obj\Debug\_04.Hexadecimal_to_decimal.pdb
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharp2\04. Numeral Systems\04. Hexadecimal to decimal\obj\Debug\04. Hexadecimal to decimal.csprojResolveAssemblyReference.cache

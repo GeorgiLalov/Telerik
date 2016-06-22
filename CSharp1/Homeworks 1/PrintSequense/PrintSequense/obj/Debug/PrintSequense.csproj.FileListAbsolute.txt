@@ -1,0 +1,6 @@
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\Homeworks 1\PrintSequense\PrintSequense\bin\Debug\PrintSequense.exe.config
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\Homeworks 1\PrintSequense\PrintSequense\bin\Debug\PrintSequense.exe
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\Homeworks 1\PrintSequense\PrintSequense\bin\Debug\PrintSequense.pdb
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\Homeworks 1\PrintSequense\PrintSequense\obj\Debug\PrintSequense.exe
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\Homeworks 1\PrintSequense\PrintSequense\obj\Debug\PrintSequense.pdb
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\Homeworks 1\PrintSequense\PrintSequense\obj\Debug\PrintSequense.csprojResolveAssemblyReference.cache

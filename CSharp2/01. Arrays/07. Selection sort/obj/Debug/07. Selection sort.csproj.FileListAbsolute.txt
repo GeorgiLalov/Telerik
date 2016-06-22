@@ -1,0 +1,1 @@
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharp2\01. Arrays\07. Selection sort\bin\Debug\_07.Selection_sort.exe.config

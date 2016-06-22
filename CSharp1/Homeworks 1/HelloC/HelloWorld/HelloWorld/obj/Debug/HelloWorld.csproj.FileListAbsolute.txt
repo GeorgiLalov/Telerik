@@ -1,0 +1,6 @@
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\Homeworks 1\HelloC\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\Homeworks 1\HelloC\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\Homeworks 1\HelloC\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\Homeworks 1\HelloC\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\Homeworks 1\HelloC\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\Homeworks 1\HelloC\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb

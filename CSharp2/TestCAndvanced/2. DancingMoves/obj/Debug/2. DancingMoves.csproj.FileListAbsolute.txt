@@ -1,0 +1,6 @@
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharp2\TestCAndvanced\2. DancingMoves\bin\Debug\_2.DancingMoves.exe.config
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharp2\TestCAndvanced\2. DancingMoves\bin\Debug\_2.DancingMoves.exe
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharp2\TestCAndvanced\2. DancingMoves\bin\Debug\_2.DancingMoves.pdb
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharp2\TestCAndvanced\2. DancingMoves\obj\Debug\2. DancingMoves.csprojResolveAssemblyReference.cache
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharp2\TestCAndvanced\2. DancingMoves\obj\Debug\_2.DancingMoves.exe
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharp2\TestCAndvanced\2. DancingMoves\obj\Debug\_2.DancingMoves.pdb

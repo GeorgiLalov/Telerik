@@ -1,0 +1,6 @@
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharp2\06. Strings and Text Processing\05. Parse tags\bin\Debug\_05.Parse_tags.exe.config
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharp2\06. Strings and Text Processing\05. Parse tags\bin\Debug\_05.Parse_tags.exe
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharp2\06. Strings and Text Processing\05. Parse tags\bin\Debug\_05.Parse_tags.pdb
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharp2\06. Strings and Text Processing\05. Parse tags\obj\Debug\05. Parse tags.csprojResolveAssemblyReference.cache
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharp2\06. Strings and Text Processing\05. Parse tags\obj\Debug\_05.Parse_tags.exe
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharp2\06. Strings and Text Processing\05. Parse tags\obj\Debug\_05.Parse_tags.pdb

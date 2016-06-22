@@ -1,0 +1,6 @@
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharp2\06. Strings and Text Processing\04. Sub-string in text\bin\Debug\_04.Sub_string_in_text.exe.config
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharp2\06. Strings and Text Processing\04. Sub-string in text\bin\Debug\_04.Sub_string_in_text.exe
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharp2\06. Strings and Text Processing\04. Sub-string in text\bin\Debug\_04.Sub_string_in_text.pdb
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharp2\06. Strings and Text Processing\04. Sub-string in text\obj\Debug\04. Sub-string in text.csprojResolveAssemblyReference.cache
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharp2\06. Strings and Text Processing\04. Sub-string in text\obj\Debug\_04.Sub_string_in_text.exe
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharp2\06. Strings and Text Processing\04. Sub-string in text\obj\Debug\_04.Sub_string_in_text.pdb

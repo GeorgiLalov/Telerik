@@ -1,0 +1,6 @@
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\TestCSharp1\Task 1Birds and Feathers\5. Bobby Avokadoto\bin\Debug\_5.Bobby_Avokadoto.exe.config
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\TestCSharp1\Task 1Birds and Feathers\5. Bobby Avokadoto\bin\Debug\_5.Bobby_Avokadoto.exe
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\TestCSharp1\Task 1Birds and Feathers\5. Bobby Avokadoto\bin\Debug\_5.Bobby_Avokadoto.pdb
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\TestCSharp1\Task 1Birds and Feathers\5. Bobby Avokadoto\obj\Debug\5. Bobby Avokadoto.csprojResolveAssemblyReference.cache
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\TestCSharp1\Task 1Birds and Feathers\5. Bobby Avokadoto\obj\Debug\_5.Bobby_Avokadoto.exe
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\TestCSharp1\Task 1Birds and Feathers\5. Bobby Avokadoto\obj\Debug\_5.Bobby_Avokadoto.pdb

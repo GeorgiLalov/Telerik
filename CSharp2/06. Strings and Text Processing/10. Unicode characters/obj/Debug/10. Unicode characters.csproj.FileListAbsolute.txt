@@ -1,0 +1,6 @@
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharp2\06. Strings and Text Processing\10. Unicode characters\bin\Debug\_10.Unicode_characters.exe.config
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharp2\06. Strings and Text Processing\10. Unicode characters\bin\Debug\_10.Unicode_characters.exe
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharp2\06. Strings and Text Processing\10. Unicode characters\bin\Debug\_10.Unicode_characters.pdb
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharp2\06. Strings and Text Processing\10. Unicode characters\obj\Debug\10. Unicode characters.csprojResolveAssemblyReference.cache
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharp2\06. Strings and Text Processing\10. Unicode characters\obj\Debug\_10.Unicode_characters.exe
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharp2\06. Strings and Text Processing\10. Unicode characters\obj\Debug\_10.Unicode_characters.pdb

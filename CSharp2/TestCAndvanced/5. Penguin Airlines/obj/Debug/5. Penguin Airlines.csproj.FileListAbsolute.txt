@@ -1,0 +1,6 @@
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharp2\TestCAndvanced\5. Penguin Airlines\bin\Debug\_5.Penguin_Airlines.exe.config
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharp2\TestCAndvanced\5. Penguin Airlines\bin\Debug\_5.Penguin_Airlines.exe
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharp2\TestCAndvanced\5. Penguin Airlines\bin\Debug\_5.Penguin_Airlines.pdb
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharp2\TestCAndvanced\5. Penguin Airlines\obj\Debug\5. Penguin Airlines.csprojResolveAssemblyReference.cache
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharp2\TestCAndvanced\5. Penguin Airlines\obj\Debug\_5.Penguin_Airlines.exe
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharp2\TestCAndvanced\5. Penguin Airlines\obj\Debug\_5.Penguin_Airlines.pdb

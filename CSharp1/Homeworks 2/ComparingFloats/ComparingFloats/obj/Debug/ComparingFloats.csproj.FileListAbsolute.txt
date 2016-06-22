@@ -1,0 +1,5 @@
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\Homeworks 2\ComparingFloats\ComparingFloats\bin\Debug\ComparingFloats.exe.config
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\Homeworks 2\ComparingFloats\ComparingFloats\bin\Debug\ComparingFloats.exe
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\Homeworks 2\ComparingFloats\ComparingFloats\bin\Debug\ComparingFloats.pdb
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\Homeworks 2\ComparingFloats\ComparingFloats\obj\Debug\ComparingFloats.exe
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\Homeworks 2\ComparingFloats\ComparingFloats\obj\Debug\ComparingFloats.pdb

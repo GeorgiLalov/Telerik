@@ -1,0 +1,1 @@
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharp2\03. Methods\06. First larger than neighbours\bin\Debug\_06.First_larger_than_neighbours.exe.config

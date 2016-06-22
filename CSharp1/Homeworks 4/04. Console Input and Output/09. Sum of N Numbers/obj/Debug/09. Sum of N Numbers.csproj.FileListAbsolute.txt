@@ -1,0 +1,1 @@
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\Homeworks 4\04. Console Input and Output\09. Sum of N Numbers\bin\Debug\_09.Sum_of_N_Numbers.exe.config

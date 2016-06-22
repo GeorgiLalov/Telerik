@@ -1,0 +1,6 @@
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\TestCSharp1\1. MutantSquirrels\5. Conductors\bin\Debug\_5.Conductors.exe.config
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\TestCSharp1\1. MutantSquirrels\5. Conductors\bin\Debug\_5.Conductors.exe
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\TestCSharp1\1. MutantSquirrels\5. Conductors\bin\Debug\_5.Conductors.pdb
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\TestCSharp1\1. MutantSquirrels\5. Conductors\obj\Debug\5. Conductors.csprojResolveAssemblyReference.cache
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\TestCSharp1\1. MutantSquirrels\5. Conductors\obj\Debug\_5.Conductors.exe
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\TestCSharp1\1. MutantSquirrels\5. Conductors\obj\Debug\_5.Conductors.pdb

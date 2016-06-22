@@ -1,0 +1,6 @@
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharp2\02. Multidimensional Arrays\01. Fill the matrix\bin\Debug\_01.Fill_the_matrix.exe.config
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharp2\02. Multidimensional Arrays\01. Fill the matrix\bin\Debug\_01.Fill_the_matrix.exe
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharp2\02. Multidimensional Arrays\01. Fill the matrix\bin\Debug\_01.Fill_the_matrix.pdb
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharp2\02. Multidimensional Arrays\01. Fill the matrix\obj\Debug\01. Fill the matrix.csprojResolveAssemblyReference.cache
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharp2\02. Multidimensional Arrays\01. Fill the matrix\obj\Debug\_01.Fill_the_matrix.exe
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharp2\02. Multidimensional Arrays\01. Fill the matrix\obj\Debug\_01.Fill_the_matrix.pdb

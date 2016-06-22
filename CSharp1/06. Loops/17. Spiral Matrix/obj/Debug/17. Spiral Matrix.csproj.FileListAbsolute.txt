@@ -1,0 +1,6 @@
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\Homeworks 4\06. Loops\17. Spiral Matrix\bin\Debug\_17.Spiral_Matrix.exe.config
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\Homeworks 4\06. Loops\17. Spiral Matrix\bin\Debug\_17.Spiral_Matrix.exe
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\Homeworks 4\06. Loops\17. Spiral Matrix\bin\Debug\_17.Spiral_Matrix.pdb
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\Homeworks 4\06. Loops\17. Spiral Matrix\obj\Debug\17. Spiral Matrix.csprojResolveAssemblyReference.cache
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\Homeworks 4\06. Loops\17. Spiral Matrix\obj\Debug\_17.Spiral_Matrix.exe
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\Homeworks 4\06. Loops\17. Spiral Matrix\obj\Debug\_17.Spiral_Matrix.pdb

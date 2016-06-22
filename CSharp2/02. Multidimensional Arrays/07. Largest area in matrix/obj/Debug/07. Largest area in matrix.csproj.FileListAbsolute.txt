@@ -1,0 +1,6 @@
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharp2\02. Multidimensional Arrays\07. Largest area in matrix\bin\Debug\_07.Largest_area_in_matrix.exe.config
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharp2\02. Multidimensional Arrays\07. Largest area in matrix\bin\Debug\_07.Largest_area_in_matrix.exe
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharp2\02. Multidimensional Arrays\07. Largest area in matrix\bin\Debug\_07.Largest_area_in_matrix.pdb
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharp2\02. Multidimensional Arrays\07. Largest area in matrix\obj\Debug\07. Largest area in matrix.csprojResolveAssemblyReference.cache
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharp2\02. Multidimensional Arrays\07. Largest area in matrix\obj\Debug\_07.Largest_area_in_matrix.exe
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharp2\02. Multidimensional Arrays\07. Largest area in matrix\obj\Debug\_07.Largest_area_in_matrix.pdb

@@ -1,0 +1,6 @@
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharp2\02. Multidimensional Arrays\03. Sequence in matrix\bin\Debug\_03.Sequence_in_matrix.exe.config
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharp2\02. Multidimensional Arrays\03. Sequence in matrix\bin\Debug\_03.Sequence_in_matrix.exe
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharp2\02. Multidimensional Arrays\03. Sequence in matrix\bin\Debug\_03.Sequence_in_matrix.pdb
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharp2\02. Multidimensional Arrays\03. Sequence in matrix\obj\Debug\03. Sequence in matrix.csprojResolveAssemblyReference.cache
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharp2\02. Multidimensional Arrays\03. Sequence in matrix\obj\Debug\_03.Sequence_in_matrix.exe
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharp2\02. Multidimensional Arrays\03. Sequence in matrix\obj\Debug\_03.Sequence_in_matrix.pdb

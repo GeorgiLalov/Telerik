@@ -1,0 +1,5 @@
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\Homeworks 4\04. Console Input and Output\02. Company Info\bin\Debug\_02.Company_Info.exe.config
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\Homeworks 4\04. Console Input and Output\02. Company Info\bin\Debug\_02.Company_Info.exe
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\Homeworks 4\04. Console Input and Output\02. Company Info\bin\Debug\_02.Company_Info.pdb
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\Homeworks 4\04. Console Input and Output\02. Company Info\obj\Debug\_02.Company_Info.exe
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\Homeworks 4\04. Console Input and Output\02. Company Info\obj\Debug\_02.Company_Info.pdb

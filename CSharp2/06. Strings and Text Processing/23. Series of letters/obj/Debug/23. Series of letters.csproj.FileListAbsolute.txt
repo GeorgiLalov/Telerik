@@ -1,0 +1,1 @@
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharp2\06. Strings and Text Processing\23. Series of letters\bin\Debug\_23.Series_of_letters.exe.config

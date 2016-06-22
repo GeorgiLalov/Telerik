@@ -1,0 +1,5 @@
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\Homeworks 4\06. Loops\15. GCD\bin\Debug\_15.GCD.exe.config
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\Homeworks 4\06. Loops\15. GCD\bin\Debug\_15.GCD.exe
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\Homeworks 4\06. Loops\15. GCD\bin\Debug\_15.GCD.pdb
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\Homeworks 4\06. Loops\15. GCD\obj\Debug\_15.GCD.exe
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\Homeworks 4\06. Loops\15. GCD\obj\Debug\_15.GCD.pdb

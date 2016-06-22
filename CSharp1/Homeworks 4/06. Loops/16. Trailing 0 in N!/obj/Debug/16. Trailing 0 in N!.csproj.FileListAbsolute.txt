@@ -1,0 +1,6 @@
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\Homeworks 4\06. Loops\16. Trailing 0 in N!\bin\Debug\_16.Trailing_0_in_N_.exe.config
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\Homeworks 4\06. Loops\16. Trailing 0 in N!\bin\Debug\_16.Trailing_0_in_N_.exe
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\Homeworks 4\06. Loops\16. Trailing 0 in N!\bin\Debug\_16.Trailing_0_in_N_.pdb
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\Homeworks 4\06. Loops\16. Trailing 0 in N!\obj\Debug\16. Trailing 0 in N!.csprojResolveAssemblyReference.cache
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\Homeworks 4\06. Loops\16. Trailing 0 in N!\obj\Debug\_16.Trailing_0_in_N_.exe
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\Homeworks 4\06. Loops\16. Trailing 0 in N!\obj\Debug\_16.Trailing_0_in_N_.pdb

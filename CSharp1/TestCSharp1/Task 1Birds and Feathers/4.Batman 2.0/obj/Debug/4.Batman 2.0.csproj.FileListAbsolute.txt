@@ -1,0 +1,6 @@
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\TestCSharp1\Task 1Birds and Feathers\4.Batman 2.0\bin\Debug\4.Batman 2.0.exe.config
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\TestCSharp1\Task 1Birds and Feathers\4.Batman 2.0\bin\Debug\4.Batman 2.0.exe
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\TestCSharp1\Task 1Birds and Feathers\4.Batman 2.0\bin\Debug\4.Batman 2.0.pdb
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\TestCSharp1\Task 1Birds and Feathers\4.Batman 2.0\obj\Debug\4.Batman 2.0.csprojResolveAssemblyReference.cache
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\TestCSharp1\Task 1Birds and Feathers\4.Batman 2.0\obj\Debug\4.Batman 2.0.exe
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\TestCSharp1\Task 1Birds and Feathers\4.Batman 2.0\obj\Debug\4.Batman 2.0.pdb

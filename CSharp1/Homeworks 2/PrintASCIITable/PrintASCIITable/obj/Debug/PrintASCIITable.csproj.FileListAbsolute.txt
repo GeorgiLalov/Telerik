@@ -1,0 +1,5 @@
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\Homeworks 2\PrintASCIITable\PrintASCIITable\bin\Debug\PrintASCIITable.exe.config
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\Homeworks 2\PrintASCIITable\PrintASCIITable\bin\Debug\PrintASCIITable.exe
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\Homeworks 2\PrintASCIITable\PrintASCIITable\bin\Debug\PrintASCIITable.pdb
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\Homeworks 2\PrintASCIITable\PrintASCIITable\obj\Debug\PrintASCIITable.exe
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\Homeworks 2\PrintASCIITable\PrintASCIITable\obj\Debug\PrintASCIITable.pdb

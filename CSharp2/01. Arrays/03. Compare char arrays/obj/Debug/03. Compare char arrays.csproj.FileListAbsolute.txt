@@ -1,0 +1,1 @@
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharp2\01. Arrays\03. Compare char arrays\bin\Debug\_03.Compare_char_arrays.exe.config

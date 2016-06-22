@@ -1,0 +1,6 @@
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharp2\TestCAndvanced\4. SoupScript\bin\Debug\_4.SoupScript.exe.config
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharp2\TestCAndvanced\4. SoupScript\bin\Debug\_4.SoupScript.exe
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharp2\TestCAndvanced\4. SoupScript\bin\Debug\_4.SoupScript.pdb
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharp2\TestCAndvanced\4. SoupScript\obj\Debug\4. SoupScript.csprojResolveAssemblyReference.cache
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharp2\TestCAndvanced\4. SoupScript\obj\Debug\_4.SoupScript.exe
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharp2\TestCAndvanced\4. SoupScript\obj\Debug\_4.SoupScript.pdb

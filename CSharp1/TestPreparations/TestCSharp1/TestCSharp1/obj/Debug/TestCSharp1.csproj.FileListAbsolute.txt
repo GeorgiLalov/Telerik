@@ -1,0 +1,6 @@
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\TestPreparations\TestCSharp1\TestCSharp1\bin\Debug\TestCSharp1.exe.config
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\TestPreparations\TestCSharp1\TestCSharp1\bin\Debug\TestCSharp1.exe
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\TestPreparations\TestCSharp1\TestCSharp1\bin\Debug\TestCSharp1.pdb
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\TestPreparations\TestCSharp1\TestCSharp1\obj\Debug\TestCSharp1.csprojResolveAssemblyReference.cache
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\TestPreparations\TestCSharp1\TestCSharp1\obj\Debug\TestCSharp1.exe
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\TestPreparations\TestCSharp1\TestCSharp1\obj\Debug\TestCSharp1.pdb

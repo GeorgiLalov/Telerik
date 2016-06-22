@@ -1,0 +1,5 @@
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharp2\TestPreparation\1. TRES4 Numbers\bin\Debug\_1.TRES4_Numbers.exe.config
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharp2\TestPreparation\1. TRES4 Numbers\bin\Debug\_1.TRES4_Numbers.exe
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharp2\TestPreparation\1. TRES4 Numbers\bin\Debug\_1.TRES4_Numbers.pdb
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharp2\TestPreparation\1. TRES4 Numbers\obj\Debug\_1.TRES4_Numbers.exe
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharp2\TestPreparation\1. TRES4 Numbers\obj\Debug\_1.TRES4_Numbers.pdb

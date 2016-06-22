@@ -1,0 +1,1 @@
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharp2\01. Arrays\04. Maximal sequence\bin\Debug\_04.Maximal_sequence.exe.config

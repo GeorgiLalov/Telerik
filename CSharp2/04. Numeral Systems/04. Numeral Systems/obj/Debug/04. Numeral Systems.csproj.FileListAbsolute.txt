@@ -1,0 +1,6 @@
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharp2\04. Numeral Systems\04. Numeral Systems\bin\Debug\_04.Numeral_Systems.exe.config
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharp2\04. Numeral Systems\04. Numeral Systems\bin\Debug\_04.Numeral_Systems.exe
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharp2\04. Numeral Systems\04. Numeral Systems\bin\Debug\_04.Numeral_Systems.pdb
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharp2\04. Numeral Systems\04. Numeral Systems\obj\Debug\04. Numeral Systems.csprojResolveAssemblyReference.cache
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharp2\04. Numeral Systems\04. Numeral Systems\obj\Debug\_04.Numeral_Systems.exe
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharp2\04. Numeral Systems\04. Numeral Systems\obj\Debug\_04.Numeral_Systems.pdb

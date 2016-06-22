@@ -1,0 +1,6 @@
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\Homeworks 1\Age\AgeLevel2\bin\Debug\AgeLevel2.exe.config
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\Homeworks 1\Age\AgeLevel2\bin\Debug\AgeLevel2.exe
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\Homeworks 1\Age\AgeLevel2\bin\Debug\AgeLevel2.pdb
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\Homeworks 1\Age\AgeLevel2\obj\Debug\AgeLevel2.exe
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\Homeworks 1\Age\AgeLevel2\obj\Debug\AgeLevel2.pdb
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\Homeworks 1\Age\AgeLevel2\obj\Debug\AgeLevel2.csprojResolveAssemblyReference.cache

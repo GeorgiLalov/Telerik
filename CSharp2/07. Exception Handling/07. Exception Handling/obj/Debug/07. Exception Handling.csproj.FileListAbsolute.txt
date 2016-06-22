@@ -1,0 +1,6 @@
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharp2\07. Exception Handling\07. Exception Handling\bin\Debug\_07.Exception_Handling.exe.config
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharp2\07. Exception Handling\07. Exception Handling\bin\Debug\_07.Exception_Handling.exe
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharp2\07. Exception Handling\07. Exception Handling\bin\Debug\_07.Exception_Handling.pdb
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharp2\07. Exception Handling\07. Exception Handling\obj\Debug\07. Exception Handling.csprojResolveAssemblyReference.cache
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharp2\07. Exception Handling\07. Exception Handling\obj\Debug\_07.Exception_Handling.exe
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharp2\07. Exception Handling\07. Exception Handling\obj\Debug\_07.Exception_Handling.pdb

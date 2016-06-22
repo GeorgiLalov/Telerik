@@ -1,0 +1,6 @@
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\Homeworks 4\06. Loops\07. Calculate 3!\bin\Debug\_07.Calculate_3_.exe.config
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\Homeworks 4\06. Loops\07. Calculate 3!\bin\Debug\_07.Calculate_3_.exe
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\Homeworks 4\06. Loops\07. Calculate 3!\bin\Debug\_07.Calculate_3_.pdb
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\Homeworks 4\06. Loops\07. Calculate 3!\obj\Debug\07. Calculate 3!.csprojResolveAssemblyReference.cache
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\Homeworks 4\06. Loops\07. Calculate 3!\obj\Debug\_07.Calculate_3_.exe
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\Homeworks 4\06. Loops\07. Calculate 3!\obj\Debug\_07.Calculate_3_.pdb

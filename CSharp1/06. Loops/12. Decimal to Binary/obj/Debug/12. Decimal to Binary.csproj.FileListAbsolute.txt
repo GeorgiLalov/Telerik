@@ -1,0 +1,6 @@
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\Homeworks 4\06. Loops\12. Decimal to Binary\bin\Debug\_12.Decimal_to_Binary.exe.config
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\Homeworks 4\06. Loops\12. Decimal to Binary\bin\Debug\_12.Decimal_to_Binary.exe
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\Homeworks 4\06. Loops\12. Decimal to Binary\bin\Debug\_12.Decimal_to_Binary.pdb
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\Homeworks 4\06. Loops\12. Decimal to Binary\obj\Debug\12. Decimal to Binary.csprojResolveAssemblyReference.cache
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\Homeworks 4\06. Loops\12. Decimal to Binary\obj\Debug\_12.Decimal_to_Binary.exe
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\Homeworks 4\06. Loops\12. Decimal to Binary\obj\Debug\_12.Decimal_to_Binary.pdb

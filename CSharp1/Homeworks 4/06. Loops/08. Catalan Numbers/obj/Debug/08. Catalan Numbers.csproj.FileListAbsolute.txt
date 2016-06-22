@@ -1,0 +1,5 @@
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\Homeworks 4\06. Loops\08. Catalan Numbers\bin\Debug\_08.Catalan_Numbers.exe.config
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\Homeworks 4\06. Loops\08. Catalan Numbers\bin\Debug\_08.Catalan_Numbers.exe
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\Homeworks 4\06. Loops\08. Catalan Numbers\bin\Debug\_08.Catalan_Numbers.pdb
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\Homeworks 4\06. Loops\08. Catalan Numbers\obj\Debug\_08.Catalan_Numbers.exe
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\Homeworks 4\06. Loops\08. Catalan Numbers\obj\Debug\_08.Catalan_Numbers.pdb

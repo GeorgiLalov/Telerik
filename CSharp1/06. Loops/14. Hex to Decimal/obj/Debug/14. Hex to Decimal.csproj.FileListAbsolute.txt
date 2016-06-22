@@ -1,0 +1,6 @@
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\Homeworks 4\06. Loops\14. Hex to Decimal\bin\Debug\_14.Hex_to_Decimal.exe.config
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\Homeworks 4\06. Loops\14. Hex to Decimal\bin\Debug\_14.Hex_to_Decimal.exe
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\Homeworks 4\06. Loops\14. Hex to Decimal\bin\Debug\_14.Hex_to_Decimal.pdb
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\Homeworks 4\06. Loops\14. Hex to Decimal\obj\Debug\14. Hex to Decimal.csprojResolveAssemblyReference.cache
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\Homeworks 4\06. Loops\14. Hex to Decimal\obj\Debug\_14.Hex_to_Decimal.exe
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\Homeworks 4\06. Loops\14. Hex to Decimal\obj\Debug\_14.Hex_to_Decimal.pdb

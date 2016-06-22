@@ -1,0 +1,6 @@
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\TestCSharp1\Task 1Birds and Feathers\3. Number of Pages\bin\Debug\_3.Number_of_Pages.exe.config
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\TestCSharp1\Task 1Birds and Feathers\3. Number of Pages\bin\Debug\_3.Number_of_Pages.exe
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\TestCSharp1\Task 1Birds and Feathers\3. Number of Pages\bin\Debug\_3.Number_of_Pages.pdb
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\TestCSharp1\Task 1Birds and Feathers\3. Number of Pages\obj\Debug\3. Number of Pages.csprojResolveAssemblyReference.cache
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\TestCSharp1\Task 1Birds and Feathers\3. Number of Pages\obj\Debug\_3.Number_of_Pages.exe
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\TestCSharp1\Task 1Birds and Feathers\3. Number of Pages\obj\Debug\_3.Number_of_Pages.pdb

@@ -1,0 +1,6 @@
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharp2\TestPreparation\2. Even Differences\bin\Debug\_2.Even_Differences.exe.config
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharp2\TestPreparation\2. Even Differences\obj\Debug\2. Even Differences.csprojResolveAssemblyReference.cache
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharp2\TestPreparation\2. Even Differences\bin\Debug\_2.Even_Differences.exe
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharp2\TestPreparation\2. Even Differences\bin\Debug\_2.Even_Differences.pdb
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharp2\TestPreparation\2. Even Differences\obj\Debug\_2.Even_Differences.exe
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharp2\TestPreparation\2. Even Differences\obj\Debug\_2.Even_Differences.pdb

@@ -1,0 +1,6 @@
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharp2\01. Arrays\14. Quick sort\bin\Debug\_14.Quick_sort.exe.config
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharp2\01. Arrays\14. Quick sort\bin\Debug\_14.Quick_sort.exe
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharp2\01. Arrays\14. Quick sort\bin\Debug\_14.Quick_sort.pdb
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharp2\01. Arrays\14. Quick sort\obj\Debug\14. Quick sort.csprojResolveAssemblyReference.cache
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharp2\01. Arrays\14. Quick sort\obj\Debug\_14.Quick_sort.exe
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharp2\01. Arrays\14. Quick sort\obj\Debug\_14.Quick_sort.pdb

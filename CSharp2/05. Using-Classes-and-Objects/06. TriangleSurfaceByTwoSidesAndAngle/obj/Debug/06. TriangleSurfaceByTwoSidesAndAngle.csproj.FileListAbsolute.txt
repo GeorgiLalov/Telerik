@@ -1,0 +1,6 @@
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharp2\05. Using-Classes-and-Objects\06. TriangleSurfaceByTwoSidesAndAngle\bin\Debug\_06.TriangleSurfaceByTwoSidesAndAngle.exe.config
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharp2\05. Using-Classes-and-Objects\06. TriangleSurfaceByTwoSidesAndAngle\bin\Debug\_06.TriangleSurfaceByTwoSidesAndAngle.exe
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharp2\05. Using-Classes-and-Objects\06. TriangleSurfaceByTwoSidesAndAngle\bin\Debug\_06.TriangleSurfaceByTwoSidesAndAngle.pdb
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharp2\05. Using-Classes-and-Objects\06. TriangleSurfaceByTwoSidesAndAngle\obj\Debug\06. TriangleSurfaceByTwoSidesAndAngle.csprojResolveAssemblyReference.cache
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharp2\05. Using-Classes-and-Objects\06. TriangleSurfaceByTwoSidesAndAngle\obj\Debug\_06.TriangleSurfaceByTwoSidesAndAngle.exe
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharp2\05. Using-Classes-and-Objects\06. TriangleSurfaceByTwoSidesAndAngle\obj\Debug\_06.TriangleSurfaceByTwoSidesAndAngle.pdb

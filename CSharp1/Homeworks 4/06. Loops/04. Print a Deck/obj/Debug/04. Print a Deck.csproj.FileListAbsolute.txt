@@ -1,0 +1,5 @@
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\Homeworks 4\06. Loops\04. Print a Deck\bin\Debug\_04.Print_a_Deck.exe.config
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\Homeworks 4\06. Loops\04. Print a Deck\bin\Debug\_04.Print_a_Deck.exe
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\Homeworks 4\06. Loops\04. Print a Deck\bin\Debug\_04.Print_a_Deck.pdb
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\Homeworks 4\06. Loops\04. Print a Deck\obj\Debug\_04.Print_a_Deck.exe
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\Homeworks 4\06. Loops\04. Print a Deck\obj\Debug\_04.Print_a_Deck.pdb

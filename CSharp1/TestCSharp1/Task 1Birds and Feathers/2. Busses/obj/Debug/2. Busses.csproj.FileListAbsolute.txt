@@ -1,0 +1,6 @@
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\TestCSharp1\Task 1Birds and Feathers\2. Busses\bin\Debug\_2.Busses.exe.config
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\TestCSharp1\Task 1Birds and Feathers\2. Busses\bin\Debug\_2.Busses.exe
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\TestCSharp1\Task 1Birds and Feathers\2. Busses\bin\Debug\_2.Busses.pdb
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\TestCSharp1\Task 1Birds and Feathers\2. Busses\obj\Debug\_2.Busses.exe
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\TestCSharp1\Task 1Birds and Feathers\2. Busses\obj\Debug\_2.Busses.pdb
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\TestCSharp1\Task 1Birds and Feathers\2. Busses\obj\Debug\2. Busses.csprojResolveAssemblyReference.cache

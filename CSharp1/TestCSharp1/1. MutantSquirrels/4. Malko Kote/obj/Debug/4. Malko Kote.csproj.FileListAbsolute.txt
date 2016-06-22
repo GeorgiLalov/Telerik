@@ -1,0 +1,6 @@
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\TestCSharp1\1. MutantSquirrels\4. Malko Kote\bin\Debug\_4.Malko_Kote.exe.config
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\TestCSharp1\1. MutantSquirrels\4. Malko Kote\bin\Debug\_4.Malko_Kote.exe
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\TestCSharp1\1. MutantSquirrels\4. Malko Kote\bin\Debug\_4.Malko_Kote.pdb
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\TestCSharp1\1. MutantSquirrels\4. Malko Kote\obj\Debug\4. Malko Kote.csprojResolveAssemblyReference.cache
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\TestCSharp1\1. MutantSquirrels\4. Malko Kote\obj\Debug\_4.Malko_Kote.exe
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\TestCSharp1\1. MutantSquirrels\4. Malko Kote\obj\Debug\_4.Malko_Kote.pdb

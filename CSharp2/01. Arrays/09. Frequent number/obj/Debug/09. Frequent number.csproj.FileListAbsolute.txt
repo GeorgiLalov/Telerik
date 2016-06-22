@@ -1,0 +1,6 @@
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharp2\01. Arrays\09. Frequent number\bin\Debug\_09.Frequent_number.exe.config
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharp2\01. Arrays\09. Frequent number\bin\Debug\_09.Frequent_number.exe
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharp2\01. Arrays\09. Frequent number\bin\Debug\_09.Frequent_number.pdb
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharp2\01. Arrays\09. Frequent number\obj\Debug\09. Frequent number.csprojResolveAssemblyReference.cache
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharp2\01. Arrays\09. Frequent number\obj\Debug\_09.Frequent_number.exe
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharp2\01. Arrays\09. Frequent number\obj\Debug\_09.Frequent_number.pdb

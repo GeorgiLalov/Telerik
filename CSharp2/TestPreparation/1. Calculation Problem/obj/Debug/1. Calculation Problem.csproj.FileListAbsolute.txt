@@ -1,0 +1,6 @@
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharp2\TestPreparation\1. Calculation Problem\bin\Debug\_1.Calculation_Problem.exe.config
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharp2\TestPreparation\1. Calculation Problem\bin\Debug\_1.Calculation_Problem.exe
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharp2\TestPreparation\1. Calculation Problem\bin\Debug\_1.Calculation_Problem.pdb
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharp2\TestPreparation\1. Calculation Problem\obj\Debug\1. Calculation Problem.csprojResolveAssemblyReference.cache
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharp2\TestPreparation\1. Calculation Problem\obj\Debug\_1.Calculation_Problem.exe
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharp2\TestPreparation\1. Calculation Problem\obj\Debug\_1.Calculation_Problem.pdb

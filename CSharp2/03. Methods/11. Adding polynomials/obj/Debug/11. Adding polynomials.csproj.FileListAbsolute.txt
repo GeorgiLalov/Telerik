@@ -1,0 +1,1 @@
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharp2\03. Methods\11. Adding polynomials\bin\Debug\_11.Adding_polynomials.exe.config

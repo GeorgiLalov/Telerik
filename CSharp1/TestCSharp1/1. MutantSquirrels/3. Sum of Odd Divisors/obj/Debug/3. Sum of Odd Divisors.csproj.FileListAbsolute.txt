@@ -1,0 +1,1 @@
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\TestCSharp1\1. MutantSquirrels\3. Sum of Odd Divisors\bin\Debug\_3.Sum_of_Odd_Divisors.exe.config

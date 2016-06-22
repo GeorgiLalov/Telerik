@@ -1,0 +1,6 @@
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\Homeworks 4\test\Ivan2.Speed\bin\Debug\Ivan2.Speed.exe.config
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\Homeworks 4\test\Ivan2.Speed\bin\Debug\Ivan2.Speed.exe
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\Homeworks 4\test\Ivan2.Speed\bin\Debug\Ivan2.Speed.pdb
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\Homeworks 4\test\Ivan2.Speed\obj\Debug\Ivan2.Speed.csprojResolveAssemblyReference.cache
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\Homeworks 4\test\Ivan2.Speed\obj\Debug\Ivan2.Speed.exe
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\Homeworks 4\test\Ivan2.Speed\obj\Debug\Ivan2.Speed.pdb

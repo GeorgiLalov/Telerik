@@ -1,0 +1,6 @@
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\Homeworks 1\PrintName\PrintName\bin\Debug\PrintName.exe.config
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\Homeworks 1\PrintName\PrintName\bin\Debug\PrintName.exe
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\Homeworks 1\PrintName\PrintName\bin\Debug\PrintName.pdb
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\Homeworks 1\PrintName\PrintName\obj\Debug\PrintName.csprojResolveAssemblyReference.cache
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\Homeworks 1\PrintName\PrintName\obj\Debug\PrintName.exe
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\Homeworks 1\PrintName\PrintName\obj\Debug\PrintName.pdb
