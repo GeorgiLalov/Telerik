@@ -1,0 +1,6 @@
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharpOOP\Defining Classes - Part 1\Defining Classes - Part 1\bin\Debug\Defining Classes - Part 1.exe.config
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharpOOP\Defining Classes - Part 1\Defining Classes - Part 1\bin\Debug\Defining Classes - Part 1.exe
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharpOOP\Defining Classes - Part 1\Defining Classes - Part 1\bin\Debug\Defining Classes - Part 1.pdb
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharpOOP\Defining Classes - Part 1\Defining Classes - Part 1\obj\Debug\Defining Classes - Part 1.csprojResolveAssemblyReference.cache
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharpOOP\Defining Classes - Part 1\Defining Classes - Part 1\obj\Debug\Defining Classes - Part 1.exe
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharpOOP\Defining Classes - Part 1\Defining Classes - Part 1\obj\Debug\Defining Classes - Part 1.pdb

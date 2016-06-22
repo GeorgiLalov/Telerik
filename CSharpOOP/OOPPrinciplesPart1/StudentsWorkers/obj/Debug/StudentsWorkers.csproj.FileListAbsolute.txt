@@ -1,0 +1,4 @@
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharpOOP\OOPPrinciplesPart1\StudentsWorkers\bin\Debug\StudentsWorkers.dll
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharpOOP\OOPPrinciplesPart1\StudentsWorkers\bin\Debug\StudentsWorkers.pdb
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharpOOP\OOPPrinciplesPart1\StudentsWorkers\obj\Debug\StudentsWorkers.dll
+C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharpOOP\OOPPrinciplesPart1\StudentsWorkers\obj\Debug\StudentsWorkers.pdb
