@@ -3,3 +3,8 @@ C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharpOOP\ExtensionM
 C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharpOOP\ExtensionMethodsDelegatesLambdaLINQ\Models\obj\Debug\Models.csprojResolveAssemblyReference.cache
 C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharpOOP\ExtensionMethodsDelegatesLambdaLINQ\Models\obj\Debug\Models.dll
 C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharpOOP\ExtensionMethodsDelegatesLambdaLINQ\Models\obj\Debug\Models.pdb
+C:\Users\Gogo\Documents\GitHub\Telerik\CSharpOOP\ExtensionMethodsDelegatesLambdaLINQ\Models\bin\Debug\Models.dll
+C:\Users\Gogo\Documents\GitHub\Telerik\CSharpOOP\ExtensionMethodsDelegatesLambdaLINQ\Models\bin\Debug\Models.pdb
+C:\Users\Gogo\Documents\GitHub\Telerik\CSharpOOP\ExtensionMethodsDelegatesLambdaLINQ\Models\obj\Debug\Models.csprojResolveAssemblyReference.cache
+C:\Users\Gogo\Documents\GitHub\Telerik\CSharpOOP\ExtensionMethodsDelegatesLambdaLINQ\Models\obj\Debug\Models.dll
+C:\Users\Gogo\Documents\GitHub\Telerik\CSharpOOP\ExtensionMethodsDelegatesLambdaLINQ\Models\obj\Debug\Models.pdb

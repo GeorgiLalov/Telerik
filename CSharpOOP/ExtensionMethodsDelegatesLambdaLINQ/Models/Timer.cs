@@ -1,13 +1,22 @@
 ﻿namespace Models
 {
     using System;
-    using System.Collections.Generic;
-    using System.Linq;
-    using System.Text;
-    using System.Threading.Tasks;
+    using System.Threading;
 
-    class Timer
+    delegate void Timer(int seconds, Action action);
+
+    public class TimerDelegate
     {
-
+        private byte ticks;
+        public TimerDelegate(int seconds, Action action)
+        {
+            this.ticks = 5;
+            while (ticks > 0)
+            {
+                action();
+                Thread.Sleep(seconds * 1000);
+                --this.ticks;
+            }
+        }
     }
 }

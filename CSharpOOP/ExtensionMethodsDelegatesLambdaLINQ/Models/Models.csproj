@@ -42,6 +42,7 @@
   <ItemGroup>
     <Compile Include="Group.cs" />
     <Compile Include="IEnumerableExtensionMethods.cs" />
+    <Compile Include="InfiniteConvergentSeries.cs" />
     <Compile Include="LINQMethods.cs" />
     <Compile Include="StringBuilderExtensionMethods.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

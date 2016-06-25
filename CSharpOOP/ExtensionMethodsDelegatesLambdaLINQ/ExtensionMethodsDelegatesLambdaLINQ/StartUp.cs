@@ -107,9 +107,23 @@
 
             //////// 14, 15
 
+            /* Infinite Convergent Series */
+            double precision = 0.001;
 
+            Console.WriteLine("1 + 1/2 + 1/4 + 1/8 + 1/16 + ... = {0:f2}", InfiniteConvergentSeries.ConvergentSum(i => 1.0 / Math.Pow(2, i), precision));
+            Console.WriteLine("1 + 1/2! + 1/3! + 1/4! + 1/5! + ... = {0:f2}", InfiniteConvergentSeries.ConvergentSum(i => 1.0 / InfiniteConvergentSeries
+                                                                                                                                        .Factorial(i + 1), precision));
+            Console.WriteLine("1 + 1/2 - 1/4 + 1/8 - 1/16 + ... = {0:f2}", InfiniteConvergentSeries.ConvergentSum(i => i == 0 ? 1 : -1.0 / Math.Pow(-2, i), precision));
+            Console.WriteLine("-------------------------");
+
+            /* Timer */
+            TimerDelegate timerDelegate = new TimerDelegate(1, test);
+            Console.WriteLine("-------------------------");
         }
 
-
+        static void test()
+        {
+            Console.WriteLine("The Method was excexuted at " + DateTime.Now);
+        }
     }
 }
