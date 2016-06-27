@@ -2,3 +2,8 @@ C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharpOOP\OOPPrincip
 C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharpOOP\OOPPrinciplesPart1\StudentsWorkers\bin\Debug\StudentsWorkers.pdb
 C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharpOOP\OOPPrinciplesPart1\StudentsWorkers\obj\Debug\StudentsWorkers.dll
 C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharpOOP\OOPPrinciplesPart1\StudentsWorkers\obj\Debug\StudentsWorkers.pdb
+C:\Users\Gogo\Documents\GitHub\Telerik\CSharpOOP\OOPPrinciplesPart1\StudentsWorkers\bin\Debug\StudentsWorkers.dll
+C:\Users\Gogo\Documents\GitHub\Telerik\CSharpOOP\OOPPrinciplesPart1\StudentsWorkers\bin\Debug\StudentsWorkers.pdb
+C:\Users\Gogo\Documents\GitHub\Telerik\CSharpOOP\OOPPrinciplesPart1\StudentsWorkers\obj\Debug\StudentsWorkers.csprojResolveAssemblyReference.cache
+C:\Users\Gogo\Documents\GitHub\Telerik\CSharpOOP\OOPPrinciplesPart1\StudentsWorkers\obj\Debug\StudentsWorkers.dll
+C:\Users\Gogo\Documents\GitHub\Telerik\CSharpOOP\OOPPrinciplesPart1\StudentsWorkers\obj\Debug\StudentsWorkers.pdb

@@ -8,3 +8,13 @@ C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharpOOP\OOPPrincip
 C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharpOOP\OOPPrinciplesPart1\OOPPrinciplesPart1\bin\Debug\StudentsWorkers.pdb
 C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharpOOP\OOPPrinciplesPart1\OOPPrinciplesPart1\bin\Debug\AnimalHierarchy.dll
 C:\Users\Gogo\Documents\Visual Studio 2015\Projects\Telerik\CSharpOOP\OOPPrinciplesPart1\OOPPrinciplesPart1\bin\Debug\AnimalHierarchy.pdb
+C:\Users\Gogo\Documents\GitHub\Telerik\CSharpOOP\OOPPrinciplesPart1\OOPPrinciplesPart1\bin\Debug\OOPPrinciplesPart1.exe.config
+C:\Users\Gogo\Documents\GitHub\Telerik\CSharpOOP\OOPPrinciplesPart1\OOPPrinciplesPart1\obj\Debug\OOPPrinciplesPart1.exe
+C:\Users\Gogo\Documents\GitHub\Telerik\CSharpOOP\OOPPrinciplesPart1\OOPPrinciplesPart1\obj\Debug\OOPPrinciplesPart1.pdb
+C:\Users\Gogo\Documents\GitHub\Telerik\CSharpOOP\OOPPrinciplesPart1\OOPPrinciplesPart1\bin\Debug\OOPPrinciplesPart1.exe
+C:\Users\Gogo\Documents\GitHub\Telerik\CSharpOOP\OOPPrinciplesPart1\OOPPrinciplesPart1\bin\Debug\OOPPrinciplesPart1.pdb
+C:\Users\Gogo\Documents\GitHub\Telerik\CSharpOOP\OOPPrinciplesPart1\OOPPrinciplesPart1\bin\Debug\AnimalHierarchy.dll
+C:\Users\Gogo\Documents\GitHub\Telerik\CSharpOOP\OOPPrinciplesPart1\OOPPrinciplesPart1\bin\Debug\StudentsWorkers.dll
+C:\Users\Gogo\Documents\GitHub\Telerik\CSharpOOP\OOPPrinciplesPart1\OOPPrinciplesPart1\bin\Debug\AnimalHierarchy.pdb
+C:\Users\Gogo\Documents\GitHub\Telerik\CSharpOOP\OOPPrinciplesPart1\OOPPrinciplesPart1\bin\Debug\StudentsWorkers.pdb
+C:\Users\Gogo\Documents\GitHub\Telerik\CSharpOOP\OOPPrinciplesPart1\OOPPrinciplesPart1\obj\Debug\OOPPrinciplesPart1.csprojResolveAssemblyReference.cache

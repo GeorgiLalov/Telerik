@@ -5,7 +5,7 @@
     using StudentsWorkers;
     using AnimalHierarchy;
 
-    class Program
+    class StartUp
     {
         static void Main(string[] args)
         {
@@ -18,6 +18,7 @@
             };
             List<Student> newListStudents = LINQMethods.SortListByGrade(studentList);
 
+            Console.WriteLine("Sort Students By Grade:");
             foreach (var student in newListStudents)
             {
                 Console.WriteLine(student.ToString());
@@ -32,6 +33,8 @@
                 new Worker("Gogo", "Goshev", 300, 10)
             };
             List<Worker> newListWorker = LINQMethods.SortListByMoney(workerList);
+
+            Console.WriteLine("Sort Workers By Money:");
             foreach (var worker in newListWorker)
             {
                 Console.WriteLine(worker.ToString());
@@ -39,6 +42,8 @@
             Console.WriteLine("--------------------------");
 
             List<Human> humanList = LINQMethods.MergeAndSortByName(studentList, workerList);
+
+            Console.WriteLine("Merge and Sort Humans By Name:");
             foreach (var human in humanList)
             {
                 Console.WriteLine(human.ToString());
@@ -54,6 +59,7 @@
                 new Frog("Froggy", 3, Gender.Female)
             };
 
+            Console.WriteLine("Calculate Animals Average Age:");
             Console.WriteLine("Avg age = {0}", StaticClass.CalcAvgAge(animals));
             Console.WriteLine("--------------------------");
         }
