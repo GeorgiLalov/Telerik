@@ -43,10 +43,12 @@
     <Compile Include="Enumerations\FacultyType.cs" />
     <Compile Include="Enumerations\SpecialtyType.cs" />
     <Compile Include="Enumerations\UniversityType.cs" />
+    <Compile Include="Models\BitArray64.cs" />
     <Compile Include="Models\Person.cs" />
     <Compile Include="Models\Student.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Tests\TestPersonClass.cs" />
+    <Compile Include="Tests\TestStudentClass.cs" />
   </ItemGroup>
   <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
